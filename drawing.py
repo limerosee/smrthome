@@ -77,7 +77,7 @@ class PygameClass:
             pygame.display.update()
 
 
-
+# ну пж
 
 s = PygameClass
 s.Pygame(W, H)
